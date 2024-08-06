@@ -15,7 +15,7 @@ Developed during the NLW Journey event, Plann.er is a website designed to provid
 
 ![App Homepage Screenshot](./frontend/public/app-homepage.jpg)
 
-![App Mainpage Screenshot](,/frontend/public/app-mainpage.jpg)
+![App Mainpage Screenshot](./frontend/public/app-mainpage.jpg)
 
 
 ## Functionalities
