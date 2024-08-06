@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  color-scheme: dark;
+}
+
+.rdp {
+  --rdp-accent-color: #09090b;
+}
+
+
