@@ -25,7 +25,7 @@ Developed during the NLW Journey event, Plann.er is a website designed to provid
 - Add important links such as hotel reservations
 - Add participants to your trip! The more, the merrier!
 
-## Improvements maded by me
+## Improvements made by me
 
 ### These functionalities make the the users free to manipule the information
 You can delete both links and participants that you don't want anymore in your trip.
