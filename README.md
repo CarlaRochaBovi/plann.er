@@ -27,11 +27,11 @@ Developed during the NLW Journey event, Plann.er is a website designed to provid
 
 ## Improvements maded by me
 
-# These functionalities make the the users free to manipule the information
+### These functionalities make the the users free to manipule the information
 You can delete both links and participants that you don't want anymore in your trip.
 You can now change the destination or the date of your trip!
 
-# This help the users to know if they already did a activity
+### This help the users to know if they already did a activity
 Activities that have already happened will be marked in green.
 
 ## Running Locally
