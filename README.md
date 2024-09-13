@@ -48,13 +48,13 @@ Navigate to the project directory
   cd my-project
 ```
 
-Install the dependecies
+Install the dependencies
 
 ```bash
   npm install
 ```
 
-start the server
+Start the server
 
 ```bash
   npm run dev
